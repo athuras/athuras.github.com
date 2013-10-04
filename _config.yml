@@ -1,0 +1,7 @@
+name: athuras blogrant
+title: athuras blogrant
+markdown: redcarpet
+pygments: true
+
+safe: true
+lsi: false
