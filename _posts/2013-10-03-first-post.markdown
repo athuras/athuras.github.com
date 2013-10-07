@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Oh what happy day."
+title:  "ASCII Mandelbrot Renderings in Haskell"
 date:   2013-10-03 20:31:08
-categories: jekyll update
 ---
 
 This is an absolutely fantastic walkthrough:
