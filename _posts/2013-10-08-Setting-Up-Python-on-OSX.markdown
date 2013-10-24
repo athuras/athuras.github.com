@@ -52,15 +52,19 @@ export PATH=/usr/local/share/python:$PATH
 
 Make sure you `source ~/.bash_profile` before you move on.
 
+I personally run into a lot of problems installing a couple of the numeric libraries via pip. Installing scipy from source is nontrivial, but luckily Homebrew has our back ...
+
 ## Installing Scientific Stack
 {% highlight bash %}
 $ # Dependencies
-$ brew install pip gfortran libjpeg
+$ brew tap homebrew/science
+$ ...
+$ brew install pip gfortran libjpeg numpy scipy
 $ # Set up virtualenv (Helpful later on)
 $ pip install virtualenv virtualenvwrapper
 $ source /usr/local/share/python/virtualenvwrapper.sh
 $ # The Main Event:
-$ pip install numpy scipy scikit-learn scikit-image theano
+$ pip install scikit-learn scikit-image theano
 $ brew install zmq
 ...
 $ pip install pyzmq pygments
