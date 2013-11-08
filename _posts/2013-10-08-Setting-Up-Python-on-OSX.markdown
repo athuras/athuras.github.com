@@ -54,12 +54,15 @@ Make sure you `source ~/.bash_profile` before you move on.
 
 I personally run into a lot of problems installing a couple of the numeric libraries via pip. Installing scipy from source is nontrivial, but luckily Homebrew has our back ...
 
-## Installing Scientific Stack
+## Installing The Scientific Stack
 {% highlight bash %}
 $ # Dependencies
+$ pip install nose tornado
 $ brew tap homebrew/science
 $ ...
-$ brew install pip gfortran libjpeg numpy scipy
+$ brew install gfortran libjpeg numpy scipy
+$ # Depending on your version of brew, you may need to explicitely
+$ # brew install samueljohn/python/numpy
 $ # Set up virtualenv (Helpful later on)
 $ pip install virtualenv virtualenvwrapper
 $ source /usr/local/share/python/virtualenvwrapper.sh
