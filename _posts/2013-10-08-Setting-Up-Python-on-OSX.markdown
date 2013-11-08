@@ -46,7 +46,7 @@ In order for the homebrew libraries to take precedence over the system onces, we
 You'll also want to update *your* `PATH`. Add these lines to your `~/.bash_profile`. The first makes sure you can see the Homebrew libraries, the second: makes it so virtualenv doesn't fail silently.
 
 {% highlight bash %}
-export PATH=/usr/local/bin/$PATH
+export PATH=/usr/local/bin/:$PATH
 export PATH=/usr/local/share/python:$PATH
 {% endhighlight %}
 
