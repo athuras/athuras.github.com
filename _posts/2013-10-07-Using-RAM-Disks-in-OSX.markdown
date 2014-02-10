@@ -1,7 +1,9 @@
 ---
 layout: post
-title:  "Using RAM Disks in OSX"
+title:  Using RAM Disks in OSX
 ---
+
+# {{ page.title }}
 *turning your IO-bounded problems into CPU-bounded problems*
 
 Like many people I know, my once glorious computer has lost a little of its shine.

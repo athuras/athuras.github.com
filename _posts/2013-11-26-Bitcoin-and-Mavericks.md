@@ -1,7 +1,9 @@
 ---
 layout: post
-title:  "Mavericks Strikes Again: ASIC Bitcoing Mining in OSX"
+title:  Mavericks Strikes Again; ASIC Bitcoin Mining in OSX
 ---
+
+# {{ page.title }}
 
 Admittedly, most of the people I've seen with bitcoin-related hardware/t-shirts/opinions/whatever seem to be pretty technically savvy, and so many of the problems encountered during initial setup are fairly straight forward to solve.
 Additionally, recent updates to cgminer, and bfgminer have probably solved some of the problems I have encounterred.

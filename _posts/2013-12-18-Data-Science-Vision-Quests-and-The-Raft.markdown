@@ -1,7 +1,11 @@
 ---
 layout: post
-title:  "Data Science, Vision Quests, and The Raft"
+title:  Data Science, Vision Quests, and The Raft
 ---
+
+# {{ page.title }}
+
+<p class="meta"> 18 Dec 2013 - Eastern Seaboard</p>
 
 Wherein I ramble about a few of the things on my mind as I hurtle eastward at 780km/h.
 

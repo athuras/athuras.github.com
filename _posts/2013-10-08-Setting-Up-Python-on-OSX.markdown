@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Setting Up Python on OSX"
+title: Setting Up Python on OSX
 ---
+
+# {{ page.title }}
 
 I frequently find myself setting up Python environments on OSX.
 While it really isn't too tricky, it does bear mentioning that OSX has its own set of idiosynchrasies, (such as the `/Library/Frameworks` directory, and that the system relies on being able to use its own (outdated) libraries.
