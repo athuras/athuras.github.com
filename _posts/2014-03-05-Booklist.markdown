@@ -4,6 +4,8 @@ title:  Reading/Watching List
 ---
 
 # {{ page.title }}
+<p class="meta"> Ongoing </p>
+
 I've finally decided to start recording the interesting things I've been up to (in no particular order).
 This page itemizes some of the most memorable, influential, and powerful stories I've experienced (as well as most of the recent ones).
 The length of the review/commentary is inversely proportional to how salient the experience was, and how long ago I read it.
