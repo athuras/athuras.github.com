@@ -1,0 +1,118 @@
+---
+layout: post
+title:  Reading/Watching List
+---
+
+# {{ page.title }}
+I've finally decided to start recording the interesting things I've been up to (in no particular order).
+This page itemizes some of the most memorable, influential, and powerful stories I've experienced (as well as most of the recent ones).
+The length of the review/commentary is inversely proportional to how salient the experience was, and how long ago I read it.
+
+Each section isn't really a 'review', but more of a commentary of the most salient features of the work, if you're looking for comprehensive commentary, you're gonna have a bad time.
+
+## My Rating Scheme
+I typically don't invest significant amounts of time into something unless I enjoy it; similarly all of the items on this list that are rated, I have read/watched in their entirety, so I implicitely enjoyed them.
+Under a typical rating scheme (say the Netflix 5-Star scheme) I would rate everything as at least 3/5 ("I liked it"), as this doesn't fully explore the rating space, my system uses the full 5-star range given that I had already enjoyed it.
+Overall (although my ratings are as yet still fairly sparse) I would expect the average to hover around 2/5, especially for longer works.
+
+**1-Star**: Good old fashioned mindless entertainment: flat characters and a tedious plot; would not read/watch again.
+
+**2-Stars**: Better than 1-Star, not deserving of 3, typically characterized by moments of noticeable tedium, but altogether enjoyable.
+
+**3-Stars**: An immersive story that begets genuine attachment to the characters, the construction of a genuinely interesting universe, would conceivably read/watch again, but only if suitably novel 'new' material is unavailable.
+
+**4-Stars**: At the end of such stories I am left with a profound melancholy that lingers for hours if not days. The sense of personal fulfillment at having taken part in such an experience is somewhat tinged with the regret that the story is over and I must carry on, alone.
+
+**5-Stars**: Reserved only for paradigm-shifting works that have significantly altered the way I perceive the world, memories of which are as strong as natural ones. When read again the story takes on different colours, and the previously unrealized masterful use of ambiguity opens up entire universes of interpretation. There is as much detail conveyed in what is said, than what is left unsaid.
+
+# Literature
+Mostly Fiction, almost entirely Prose.
+
+### A Song of Ice and Fire - George R.R. Martin
+A good time was had by all--although in "A Dance With Dragons" I found some of the story arcs tedious.
+
+3-Stars
+
+### Latro in the Mist - Gene Wolfe
+Technically "Soldier of the Mist", and "Soldier of Arete", Latro in the Mist follows a roman mercenary through Greece and beyond, the interesting plot mechanic, is that Latro suffers from sever short-term memory loss; he forgets everything when he sleeps.
+The novels are well written (Gene Wolfe remains one of my favourite authors), and Latro's poignantly tenuous hold on reality--and himself, lead to some fantastical adventures.
+As with everything else Gene Wolfe writes, there are always dark layers just hidden below the surface, and these novels are no different--allowing us an interesting look into the mind of someone who may have a serious mental illness.
+
+3-Stars
+
+### The Book of the New Sun - Gene Wolfe
+To date, the single most intellectually pervasive series I have read.
+I've reread it several times over about a decade, and each time it feels fresh and new.
+
+Arguably one of Gene Wolfe's best works, The Book of the New Sun features some stunning world building, intriguing characters, and incredibly deep meta-narratives.
+There is a particular chapter, written **entirely in metaphor** (The "Ascian's Tale"), which I think should be required reading for anyone interested in the subject.
+We follow Severian, a torturer by trade, as he explores the mind-bending reality of a civilization surrounding a dying star, and ultimately, through the most haunting depiction of time-travel ever written.
+As we learn more about the civilization, (particularly in "Urth of the New Sun"—which some view as not part of the original series) the imagery Wolfe paints casts shadows on all our prior understanding of the culture and characters in the novels, leading to a series that when reread comes off as a different story entirely.
+
+Pure magic.
+
+5-Stars.
+
+### The Book of the Long Sun - Gene Wolfe
+Admittedly, my recollection of this is a little fuzzy, I remember it seeming strange, quirky, and mysterious.
+I feel like this series gets overshadowed by The Book of The New Sun, but that could just be my unique perspective.
+As with everything written by Gene Wolfe, worth reading.
+
+3-Stars.
+
+### Anathem - Neil Stephenson
+A lot of people don't like Stephenson, perhaps they (like me a couple times) got tired reading through the slightly monotonous Quicksilver series.
+However I will say that Anathem hits the marks where Quicksilver missed it.
+We get the same dense imagery, the same rigorous detail, but in a world that (for me at least) is inherently appealing.
+
+4-Stars.
+
+### The Cryptonomicon - Neil Stephenson
+One of Stephenson's most popular novels, and deservingly so.
+The Cryptonomicon is probably the most appealing method of simultaneously teaching people about the culture of WWII England, elementary cryptographic methodology, and modern network engineering.
+
+3-Stars
+
+## Reamde - Neil Stephenson
+A sort of spin-off of "The Cryptonomicon", Reamde is an technophile's action-adventure novel a-la Robert Ludlum.
+A great combination of crypto, economics, virtual reality, and mafioso hit squads.
+
+3-Stars.
+
+## Homer's Illiad & Odyssey. - Robert Fagles (Translator)
+Perhaps seeming a little out of character with the other works included here, I thoroughly enjoy ancient stories, particularly the diction/verse. I've read both the Fagles and Butler translations, and I prefer Fagles (although it was the first one I read, so there is the novelty affect).
+Of particular interest—especially of The Odyssey, is the abstract realization of "The Prototypical Story", and how tales of tricksters and heroes are subtly and mysteriously worked (over thousands of years) and reworked into the modern fabric of pop-culture.
+
+3-Stars.
+
+
+# Video
+Mostly Anime
+
+### Sword Art Online (2012)
+On the surface, an effervescent anime with moderately complex characters.
+However, the ease and fluidity with which SAO deals with complex and personal themes surrounding identity, and control betrays a much more mature purpose;
+and there were several scenes that snapped me out of my comfort zone (although that could just be some Japanese culture bleeding through).
+
+Perhaps I'm acutely susceptible to a well told coming-of-age story, partly some sweet-sweet catharsis relating to my own gaming experience, whatever it was, the series was addictive, and its surprisingly easy to 'binge'—in fact I think I may have watched the first 6-hours in a single sitting.
+
+3-Stars.
+
+### Attack on Titan (2013)
+I ran into this on Netflix during a particularly mind-expanding neuroscience assignment and got hooked.
+A visually striking dystopian anime (gorgeous animation), Attack on Titan has everything a good anime should have: compelling plot, intrigue, and shameless single-frame internal monologues.
+On that note, AoT definitely suffers from what I'll call "gratuitous monologuing syndrome", but after a while I just tuned it out.
+Not the best anime I've seen recently, but a genuinely novel world, with some interesting political critiques, I'm looking forward to the next season.
+
+2-Stars.
+
+### Cowboy Bebop (1998)
+The best soundtrack of any show ever.
+Yoko Kanno is a god.
+
+4-Stars.
+
+### Ghost in the Shell (1995)
+Aside from an intriguing plot, and exciting action sequences, this film depicts a dark and gritty post-cyberpunk future eerily similar to that of Bladerunner.
+
+3-Stars
