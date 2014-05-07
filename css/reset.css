@@ -1,0 +1,118 @@
+/****************************************************************************/
+/*
+/* Global Reset
+/*
+/****************************************************************************/
+
+/* Standard */
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+body,
+html
+{
+    height: 100%;
+}
+
+body
+{
+    background-color: #fff;
+    font: 13.34px helvetica, arial, sans-serif;
+    font-size: small;
+    text-align: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6
+{
+    font-size: 100%;
+    margin-bottom: 1em;
+}
+
+p
+{
+    margin: 1em 0;
+}
+
+a
+{
+    color: #00a;
+}
+
+a:hover
+{
+    color: #000;
+}
+
+a:visited
+{
+    color: #a0a;
+}
+
+table
+{
+    font: 100%;
+    font-size: inherit;
+}
+
+/* Custom: Headings */
+
+body
+{
+    counter-reset: counter_h1;
+}
+
+h1
+{
+    counter-reset: counter_h2;
+}
+
+h2
+{
+    counter-reset: counter_h3;
+}
+
+h3
+{
+    counter-reset: counter_h4;
+}
+
+h4
+{
+    counter-reset: counter_h5;
+}
+
+h5
+{
+    counter-reset: counter_h6;
+}
+
+/* Custom: Table Of Contents */
+
+#markdown-toc
+{
+    counter-reset: counter_l1;
+}
+
+#markdown-toc ul:nth-child(2)
+{
+    counter-reset: counter_l2;
+}
+
+#markdown-toc ul:nth-child(2) ul:nth-child(2)
+{
+    counter-reset: counter_l3;
+}
+
+#markdown-toc ul:nth-child(2) ul:nth-child(2) ul:nth-child(2)
+{
+    counter-reset: counter_l4;
+}

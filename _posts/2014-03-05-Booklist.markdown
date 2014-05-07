@@ -1,18 +1,26 @@
 ---
 layout: post
-title:  Book List
+title:  Booklist
+date: 2014-03-05
 ---
-
-# {{ page.title }}
-<p class="meta"> Ongoing </p>
 
 I've finally decided to start recording the interesting things I've been reading (and watching),in no particular order.
 This page itemizes some of the most memorable, influential, and powerful stories I've experienced (as well as most of the recent ones).
 The length of the review/commentary is inversely proportional to how striking the experience was, and how long ago I read it.
-
 Each section isn't really a 'review', but more of a commentary of the most salient features of the work, if you're looking for comprehensive commentary, you're gonna have a bad time.
 
-## My Rating Scheme
+
+---
+
+# Contents
+{: .no_toc}
+
+* TOC
+{: toc}
+
+---
+
+# Rating Scheme
 I typically don't invest significant amounts of time into something unless I enjoy it; similarly all of the items on this list that are rated, I have read/watched in their entirety, so I implicitely enjoyed them.
 Under a typical rating scheme (say the Netflix 5-Star scheme) I would rate everything as at least 3/5 ("I liked it"), as this doesn't fully explore the rating space, my system uses the full 5-star range given that I had already enjoyed it.
 Overall (although my ratings are as yet still fairly sparse) I would expect the average to hover around 2/5, especially for longer works.
@@ -27,22 +35,24 @@ Overall (although my ratings are as yet still fairly sparse) I would expect the 
 
 **5-Stars**: Reserved only for paradigm-shifting works that have significantly altered the way I perceive the world, memories of which are as strong as natural ones. When read again the story takes on different colours, and the previously unrealized masterful use of ambiguity opens up entire universes of interpretation. There is as much detail conveyed in what is said, than what is left unsaid.
 
+---
+
 # Literature
 Mostly Fiction, almost entirely Prose.
 
-### A Song of Ice and Fire - George R.R. Martin
+## A Song of Ice and Fire - George R.R. Martin
 A good time was had by all--although in "A Dance With Dragons" I found some of the story arcs tedious.
 
 3-Stars
 
-### Latro in the Mist - Gene Wolfe
+## Latro in the Mist - Gene Wolfe
 Technically "Soldier of the Mist", and "Soldier of Arete", Latro in the Mist follows a roman mercenary through Greece and beyond, the interesting plot mechanic, is that Latro suffers from sever short-term memory loss; he forgets everything when he sleeps.
 The novels are well written (Gene Wolfe remains one of my favourite authors), and Latro's poignantly tenuous hold on reality--and himself, lead to some fantastical adventures.
 As with everything else Gene Wolfe writes, there are always dark layers just hidden below the surface, and these novels are no different--allowing us an interesting look into the mind of someone who may have a serious mental illness.
 
 3-Stars
 
-### The Book of the New Sun - Gene Wolfe
+## The Book of the New Sun - Gene Wolfe
 To date, the single most intellectually pervasive series I have read.
 I've reread it several times over about a decade, and each time it feels fresh and new.
 
@@ -55,21 +65,21 @@ Pure magic.
 
 5-Stars.
 
-### The Book of the Long Sun - Gene Wolfe
+## The Book of the Long Sun - Gene Wolfe
 Admittedly, my recollection of this is a little fuzzy, I remember it seeming strange, quirky, and mysterious.
 I feel like this series gets overshadowed by The Book of The New Sun, but that could just be my unique perspective.
 As with everything written by Gene Wolfe, worth reading.
 
 3-Stars.
 
-### Anathem - Neil Stephenson
+## Anathem - Neil Stephenson
 A lot of people don't like Stephenson, perhaps they (like me a couple times) got tired reading through the slightly monotonous Quicksilver series.
 However I will say that Anathem hits the marks where Quicksilver missed it.
 We get the same dense imagery, the same rigorous detail, but in a world that (for me at least) is inherently appealing.
 
 4-Stars.
 
-### The Cryptonomicon - Neil Stephenson
+## The Cryptonomicon - Neil Stephenson
 One of Stephenson's most popular novels, and deservingly so.
 The Cryptonomicon is probably the most appealing method of simultaneously teaching people about the culture of WWII England, elementary cryptographic methodology, and modern network engineering.
 
@@ -87,11 +97,12 @@ Of particular interest—especially of The Odyssey, is the abstract realization 
 
 3-Stars.
 
+---
 
 # Video
 Mostly Anime
 
-### Fate/Zero (2011)
+## Fate/Zero (2011)
 I really like dark anime, and this is no exception.
 Fate/Zero has moderately complex characters, and great visual style; however the aspect that separates it from other anime with similar qualities (SAO, Cowboy Bebop, etc.) is the depiction of really gritty violence and suffering.
 There are no prototypical heroes and villains (although I imagine the development of the principal antagonist is somewhat straightforward), and almost every character is severely flawed.
@@ -108,7 +119,7 @@ Similarly, the Fate/Zero ends in a similar manner (conceptually) to how Cowboy B
 
 4-stars.
 
-### Sword Art Online (2012)
+## Sword Art Online (2012)
 On the surface, an effervescent anime with moderately complex characters.
 However, the ease and fluidity with which SAO deals with complex and personal themes surrounding identity, and control betrays a much more mature purpose;
 and there were several scenes that snapped me out of my comfort zone (although that could just be some Japanese culture bleeding through).
@@ -117,7 +128,7 @@ Perhaps I'm acutely susceptible to a well told coming-of-age story, partly some 
 
 3-Stars.
 
-### Attack on Titan (2013)
+## Attack on Titan (2013)
 I ran into this on Netflix during a particularly mind-expanding neuroscience assignment and got hooked.
 A visually striking dystopian anime (gorgeous animation), Attack on Titan has everything a good anime should have: compelling plot, intrigue, and shameless single-frame internal monologues.
 On that note, AoT definitely suffers from what I'll call "gratuitous monologuing syndrome", but after a while I just tuned it out.
@@ -125,13 +136,13 @@ Not the best anime I've seen recently, but a genuinely novel world, with some in
 
 2-Stars.
 
-### Cowboy Bebop (1998)
+## Cowboy Bebop (1998)
 The best soundtrack of any show ever.
 Yoko Kanno is a god.
 
 4-Stars.
 
-### Ghost in the Shell (1995)
+## Ghost in the Shell (1995)
 Aside from an intriguing plot, and exciting action sequences, this film depicts a dark and gritty post-cyberpunk future eerily similar to that of Bladerunner.
 
 3-Stars

@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  Mavericks Strikes Again; ASIC Bitcoin Mining in OSX
+date: 2013-11-26
 ---
-
-# {{ page.title }}
 
 Admittedly, most of the people I've seen with bitcoin-related hardware/t-shirts/opinions/whatever seem to be pretty technically savvy, and so many of the problems encountered during initial setup are fairly straight forward to solve.
 Additionally, recent updates to cgminer, and bfgminer have probably solved some of the problems I have encounterred.
@@ -13,12 +12,12 @@ Having recently (finally) found myself in possesion of some shiny new BFL BitFor
 
 This is how it went down.
 
-## The Equipment
+# The Equipment
 * 2x BFL 7GH/s USB Bitcoin Miners (ASIC, Jalapeno)
 * 1x bizarre USB/Firewire/SATA hub/splitter thingy (so cheap, so good)
 * 1x 2009 15' MacBook Pro, with OSX 10.9 (Mavericks)
 
-## The Software
+# The Software
 
 * [homebrew](http://brew.sh)
 * [The *proper* USB COM Port Driver](http://www.ftdichip.com/Drivers/VCP.htm)

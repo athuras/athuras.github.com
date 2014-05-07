@@ -25,7 +25,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
-a         { color: #00a; }
+a         { color: #009; }
 a:hover   { color: #000; }
 a:visited { color: #a0a; }
 
@@ -71,10 +71,14 @@ ul.posts span {
 .site .header h1.title {
   display: inline-block;
   margin-bottom: 2em;
+  margin-left: -4px;
 }
 
 .site .header h1.title a {
   color: #a00;
+  padding: 4px;
+  text-decoration: none;
+  border-radius: 6px;
 }
 
 .site .header h1.title a:hover {
@@ -157,4 +161,346 @@ ul.posts span {
 
 .post pre.terminal code {
   background-color: #333;
+}
+
+/* The following is almost verbatim from andrewfeitlinger.com */
+/* http://github.com/andrewfeitlinger */
+
+/* Links */
+
+.post a.title
+{
+    background-color: #fff;
+    border-radius: 6px;
+    color: #009;
+    margin-left: -4px;
+    padding: 4px;
+    text-decoration: none;
+}
+
+.post a.title:hover
+{
+    background-color: #009;
+    border-radius: 6px;
+    color: #fef;
+    padding: 4px;
+}
+
+.post a
+{
+    color: #009;
+}
+
+.post a:hover
+{
+    font-weight: bold;
+    text-decoration: none;
+}
+
+/* Horizontal Line */
+
+.post hr
+{
+    border: solid #ddd;
+    height: 1px;
+    margin-bottom: 1em;
+}
+
+/* Blank Lines */
+
+.post p.blank2
+{
+    visibility: hidden;
+    line-height: 0em;
+}
+
+.post p.blank3
+{
+    visibility: hidden;
+    line-height: 1em;
+}
+
+.post p.blank4
+{
+    visibility: hidden;
+    line-height: 2em;
+}
+
+/* Footnotes */
+
+.post a.footnote,
+.post a.reversefootnote
+{
+    background-color: #fff;
+    border-radius: 4px;
+    color: #009;
+    font-weight: bold;
+    margin-left: 0px;
+    padding: 2px;
+    text-decoration: none;
+}
+
+.post a.footnote:hover,
+.post a.reversefootnote:hover
+{
+    background-color: #009;
+    border-radius: 4px;
+    color: #fdf;
+    padding: 2px;
+}
+
+/* Lists */
+
+.post ol,
+.post ul
+{
+    margin-bottom: 1em;
+}
+
+.post ol
+{
+    margin-left: 1.35em;
+}
+
+.post ul
+{
+    margin-left: 1.25em;
+}
+
+.post ol li
+{
+    line-height: 1.65em;
+}
+
+.post ul li
+{
+    line-height: 1.75em;
+}
+
+.post dt
+{
+    font-weight: bold;
+    text-align: left;
+}
+
+.post dd
+{
+    font-style: italic;
+    margin-bottom: 1em;
+    margin-left: 1em;
+}
+
+/* Tables */
+
+.post table
+{
+    border-bottom: 1px solid #000;
+    border-collapse: collapse;
+    border-top: 1px solid #000;
+    margin-bottom: 1.5em;
+    margin-top: 1.5em;
+}
+
+.post thead th,
+.post tbody td,
+.post tfoot td
+{
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    padding: 1em;
+    vertical-align: top;
+}
+
+.post thead :not(tr:last-child),
+.post tbody :not(tr:last-child),
+.post tfoot :not(tr:last-child)
+{
+    border-bottom: none;
+}
+
+.post thead tr:last-child,
+.post tbody tr:last-child,
+.post tfoot tr:last-child
+{
+    border-bottom: 1px solid #000;
+}
+
+.post thead,
+.post tfoot
+{
+    background-color: #ddf;
+    font-weight: bold;
+}
+
+.post tbody
+{
+    background-color: #eee;
+}
+
+/* Headings */
+
+.post h1:before,
+.post h2:before,
+.post h3:before,
+.post h4:before,
+.post h5:before,
+.post h6:before
+{
+    margin-right: 1em;
+}
+
+.post h1:not(.no_toc):before
+{
+    counter-increment: counter_h1;
+    content: counter(counter_h1) " ";
+}
+
+.post h2:not(.no_toc):before
+{
+    counter-increment: counter_h2;
+    content: counter(counter_h1) "."
+                counter(counter_h2) " ";
+}
+
+.post h3:not(.no_toc):before
+{
+    counter-increment: counter_h3;
+    content: counter(counter_h1) "."
+                counter(counter_h2) "."
+                counter(counter_h3) " ";
+}
+
+.post h4:not(.no_toc):before
+{
+    counter-increment: counter_h4;
+    content: counter(counter_h1) "."
+                counter(counter_h2) "."
+                counter(counter_h3) "."
+                counter(counter_h4) " ";
+}
+
+.post h5:not(.no_toc):before
+{
+    counter-increment: counter_h5;
+    content: counter(counter_h1) "."
+                counter(counter_h2) "."
+                counter(counter_h3) "."
+                counter(counter_h4) "."
+                counter(counter_h5) " ";
+}
+
+.post h6:not(.no_toc):before
+{
+    counter-increment: counter_h6;
+    content: counter(counter_h1) "."
+                counter(counter_h2) "."
+                counter(counter_h3) "."
+                counter(counter_h4) "."
+                counter(counter_h5) "."
+                counter(counter_h6) " ";
+}
+
+/* Table Of Contents */
+
+#markdown-toc ul
+{
+    margin-bottom: 2px;
+}
+
+#markdown-toc li
+{
+    list-style-type: none;
+    text-indent: -1.2em;
+}
+
+#markdown-toc ul li
+{
+    text-indent: -0.8em;
+}
+
+#markdown-toc ul ul li
+{
+    text-indent: 0.4em;
+}
+
+#markdown-toc ul ul ul li
+{
+    text-indent: 2.6em;
+}
+
+#markdown-toc li:before
+{
+    color: #009;
+    font-weight: bold;
+    margin-right: 1em;
+}
+
+#markdown-toc li:before
+{
+    counter-increment: counter_l1;
+    content: counter(counter_l1) " ";
+}
+
+#markdown-toc ul:nth-child(2) li:before
+{
+    counter-increment: counter_l2;
+    content: counter(counter_l1) "."
+                counter(counter_l2) " ";
+}
+
+#markdown-toc ul:nth-child(2) ul:nth-child(2) li:before
+{
+    counter-increment: counter_l3;
+    content: counter(counter_l1) "."
+                counter(counter_l2) "."
+                counter(counter_l3) " ";
+}
+
+#markdown-toc ul:nth-child(2) ul:nth-child(2) ul:nth-child(2) li:before
+{
+    counter-increment: counter_l4;
+    content: counter(counter_l1) "."
+                counter(counter_l2) "."
+                counter(counter_l3) "."
+                counter(counter_l4) " ";
+}
+
+#markdown-toc a
+{
+    background-color: #fff;
+    border-radius: 6px;
+    color: #009;
+    font-weight: bold;
+    margin-left: -4px;
+    padding: 4px;
+    text-decoration: none;
+}
+
+#markdown-toc a:hover
+{
+    background-color: #888;
+    color: #008;
+    padding: 4px;
+}
+
+/* Pygments */
+
+.post .highlight span:first-child, /* No Line Numbers */
+.post .highlight span:nth-child(2), /* Line Numbers (Code) */
+.post .highlight .lineno:first-of-type, /* Line Numbers (Inline) */
+.post .highlighttable .linenodiv:first-letter /* Line Numbers (Table) */
+{
+    margin-left: -2px; /* fixes 2px indent "glitch" on first line of code block */
+}
+
+.post .highlighttable .linenodiv,
+.post .highlighttable .highlight
+{
+    margin-bottom: 0em;
+    padding-top: 0em;
+}
+
+.post .highlighttable .highlight
+{
+    margin-top: .5em;
 }

@@ -1,7 +1,14 @@
-name: athuras blogrant
-title: athuras blogrant
-markdown: redcarpet
+name: athuras
+exclude: ['README.md']
+title: athuras
 pygments: true
-
 safe: true
 lsi: false
+markdown: kramdown
+kramdown:
+    auto_ids: true
+    footnote_nr: 1
+    entity_output: as_char
+    smart_quotes: 'lsquo,rsquo,ldquo,rdquo'
+    use_coderay: false
+    toc_levels: 1..4
