@@ -4,6 +4,16 @@ title:  Booklist
 date: 2014-06-24
 ---
 
+<script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+<script type="text/javascript">
+twttr.conversion.trackPid('l4rfy');
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l4rfy&p_id=Twitter" />
+<img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l4rfy&p_id=Twitter" />
+</noscript>
+
+
 I've finally decided to start recording the interesting things I've been reading (and watching),in no particular order.
 This page itemizes some of the most memorable, influential, and powerful stories I've experienced (as well as most of the recent ones).
 The length of the review/commentary is inversely proportional to how striking the experience was, and how long ago I read it.
