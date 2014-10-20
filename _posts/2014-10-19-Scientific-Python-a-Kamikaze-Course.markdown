@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Scientific Python: A Kamikaze Course
+title: "Scientific Python: A Kamikaze Course"
 date: 2014-10-19
 ---
 
