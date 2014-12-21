@@ -9,7 +9,6 @@ This page itemizes some of the most memorable, influential, and powerful stories
 The length of the review/commentary is inversely proportional to how striking the experience was, and how long ago I read it.
 Each section isn't really a 'review', but more of a commentary of the most salient features of the work, if you're looking for comprehensive commentary, you're gonna have a bad time.
 
-
 ---
 
 # Contents
@@ -25,7 +24,9 @@ I typically don't invest significant amounts of time into something unless I enj
 Under a typical rating scheme (say the Netflix 5-Star scheme) I would rate everything as at least 3/5 ("I liked it"), as this doesn't fully explore the rating space, my system uses the full 5-star range given that I had already enjoyed it.
 Overall (although my ratings are as yet still fairly sparse) I would expect the average to hover around 2/5, especially for longer works.
 
-**1-Star**: Good old fashioned mindless entertainment: flat characters and a tedious plot; would not read/watch again.
+**DNF**: Couldn't finish, reserved for works whose time commitment I couldn't justify. There shouldn't be many of these here.
+
+**1-Star**: Good old fashioned mindless entertainment: flat characters and a tedious plot; would not read/watch again. Differentiated from "DNF" by virtue of having actually read/watched to completion.
 
 **2-Stars**: Better than 1-Star, not deserving of 3, typically characterized by moments of noticeable tedium, but altogether enjoyable.
 
@@ -39,6 +40,34 @@ Overall (although my ratings are as yet still fairly sparse) I would expect the 
 
 # Literature
 Mostly Fiction, almost entirely Prose.
+
+## Colorless Tsukuru Tazaki and His Years of Pilgrimage - Haruki Murakami (tr. Philip Gabriel)
+
+Murakami came highly recommended to me (specifically 1Q84), so I thought this would be a suitable introduction.
+Colorless Tsukuru Tazaki is first and foremost a story about a single character, and his internal struggle coming to terms with past psychological damage.
+Poignant, surreal, and poetic:this will not be my last Murakami novel.
+As an added bonus, the work is relatively short (great airplane reading, so long as you can hide your tears from the person sitting beside you).
+The resolution is perfect.
+
+4-Stars.
+
+## Mistbord Trilogy - Brian Sanderson
+I got the whole trilogy from Amazon in a single volume, and read through it without really paying attention to when each individual volume began or ended, so I'll review the entire work rather than its constituent parts.
+The novels are marked by noticeable periods of tedium, (a la Song of Ice and Fire), and there are times when basic elements of the story are repeated.
+While this could just be the prerequisite beginning-of-next-novel-in-the-series repetition, I found it almost insulting.
+By the time I've invested 40 hours into this series, please don't take 4 pages to reiterate Sazed's motivation; we all get it; please continue with the story.
+
+The character development is comprehensive; although---and this will be a recurring theme, not outstandingly, and the story is set on a suitably epic scale; features some very comprehensive world-building.
+Mistborn is very much a sword-and-sorcery style series, and if it has one shining virtue, it's the fantastically nuanced "magic" system (allomancy). In fact, it's worth reading only the first book just to appreciate the depth of thought that went into designing it, and if Sanderson did nothing else, he would justifiably deserve continuous accolades for it.
+
+Ultimately, the novel(s) can be summed up with the following headline: "Protagonist starts from nothing; becomes god."
+There are definitely some clever plot twists along the way, but I was repeatedly irritated by needless repetition that should really have been edited out.
+
+On a similar note, I've always appreciated the skillful use of ambiguity, and found very little of it here.
+This would be a great stage for a MMORPG.
+
+2-Stars.
+
 
 ## The Wise Man's Fear - Patrick Rothfuss
 The second in "The Kingkiller Chronicle", I enjoyed this exaclty as much as The Name of The Wind.
