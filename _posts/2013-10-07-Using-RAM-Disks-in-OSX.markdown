@@ -20,6 +20,7 @@ What reads and writes faster than a shitty single 5400 RPM HDD? Most things, but
 There are many tutorials (or standalone apps) that handle RAM Disk replication, but like most things in OSX, there is already a perfectly good solution hidden somewhere in /usr/sbin. In our particular case, `diskutil`.
 
 # Stick this in your `/.bashrc` and smoke it...
+
 {% highlight bash %}
 function mount_rdisk() {
 	echo "Mounting $1 MB RAM Disk at /Volumes/RamDisk"
@@ -42,6 +43,7 @@ It then initializes the disk with whatever was at the hardcoded archive director
 `stash_rdisk` *saves* you're work to the archive directory.
 
 ## First Time Usage:
+
 {% highlight bash %}
 $ mkdir /usr/local/RamDisk_archive
 $ mount_rdisk 512
@@ -58,11 +60,13 @@ $ mount_rdisk 512
 {% endhighlight %}
 
 ## Caveats:
+
 The functions mount/stash_rdisk are hardcoded for my workflow, which was to create a single ramdisk, and use it for everything (i.e. hardcoded name). Hypothetically, you could create separate, smaller volumes for each use-case. And have separate replication directories for each one.
 
 Additionally, you might not want to use HFS+ for the filesystem, as journalling isn't as helpfull on a volatile disk as it would be on its quasi-permanent alternatives (read: not at all, I'm just too lazy to look up a more appropriate filesystem that OSX plays nice with).
 
 # Usecases:
+
 Large LaTeX documents. You'll find running applications like TexWorks, or the CLI alternatives `pdflatex`, `mklatex`, etc run faster when running on files located in the RAM Disk.
 Large text files you'd like to open in something like `vim`.
 Disk-backed databases (this could be one of those times you look for a different DB, but for testing its helpful).
