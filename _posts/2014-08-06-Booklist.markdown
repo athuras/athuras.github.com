@@ -4,7 +4,8 @@ title:  Booklist
 date: 2014-06-24
 ---
 
-I've finally decided to start recording the interesting things I've been reading (and watching),in no particular order.
+I've finally decided to start recording the interesting things I've been reading, and watching.
+In no particular order (roughly reverse chronological based on when I finished it).
 This page itemizes some of the most memorable, influential, and powerful stories I've experienced (as well as most of the recent ones).
 The length of the review/commentary is proportional to how striking the experience was, and unfortunately inversely proportional to how long ago I read it.
 Each section isn't really a 'review', but more of a commentary of the most salient features of the work, if you're looking for comprehensive commentary, you're gonna have a bad time.
@@ -32,14 +33,35 @@ Overall (although my ratings are as yet still fairly sparse) I would expect the 
 
 **3-Stars**: An immersive story that begets genuine attachment to the characters, the construction of a genuinely interesting universe, would conceivably read/watch again, but only if suitably novel 'new' material is unavailable.
 
-**4-Stars**: At the end of such stories I am left with a profound melancholy that lingers for hours if not days. The sense of personal fulfillment at having taken part in such an experience is somewhat tinged with the regret that the story is over and I must carry on, alone.
+**4-Stars**:
+At the end of such stories I am left with a profound melancholy that lingers for hours if not days.
+The sense of personal fulfillment at having taken part in such an experience is somewhat tinged with the regret that the story is over and I must carry on, alone. I'd wholeheartedly recommend anything at this rating to anyone who even vaguelly expresses interest.
 
-**5-Stars**: Reserved only for paradigm-shifting works that have significantly altered the way I perceive the world, memories of which are as strong as natural ones. When read again the story takes on different colours, and the previously unrealized masterful use of ambiguity opens up entire universes of interpretation. There is as much detail conveyed in what is said, than what is left unsaid.
+**5-Stars**:
+Reserved only for paradigm-shifting works that have significantly altered the way I perceive the world, memories of which are as strong as natural ones.
+When read again the story takes on different colours, and the previously unrealized masterful use of ambiguity opens up entire universes of interpretation.
+There is as much detail conveyed in what is said, than what is left unsaid.
+A work of art, and I'll loudly and repeatedly recommend these to anyone nearby; whether they are interested or not.
 
 ---
 
 # Literature
 Mostly fiction, almost entirely Prose.
+
+## The Expanse Series - James S.A. Corey
+A great noir-sci-fi that follows a small cast of characters caught up in events mostly out of their control.
+Packed with a hefty dose of post-Earth colonialism, and a great combination of character development, and world building; *The Expanse* offers just about everything anyone could want from a Space Opera.
+In general, I found *Leviathan Wakes* to be excellent, but the proceeding two novels lacking suitable plot depth.
+*Cibola Burn* was again excellent, but achieved that by allowing each of the protagonists to independingly drive their own story arcs.
+I can see why a [TV adaptation|https://en.wikipedia.org/wiki/The_Expanse_(TV_series)] is planned; and I assume I'll enjoy it.
+
+**Leviathan Wakes**: 3-Stars.
+
+**Caliban's War**: 2-Stars.
+
+**Abaddon's Gate**: 2-Stars.
+
+**Cibola Burn**: 3 Stars.
 
 ## The Black Cloud - Fred Hoyle
 Exemplary (perhaps genre-defining) hard-science-fiction.
