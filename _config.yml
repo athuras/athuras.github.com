@@ -1,10 +1,10 @@
 name: athuras
 exclude: ['README.md']
 title: athuras
-pygments: true
 safe: true
 lsi: false
 markdown: kramdown
+highlighter: rouge
 kramdown:
     auto_ids: true
     footnote_nr: 1
