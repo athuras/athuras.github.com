@@ -21,7 +21,7 @@ Each section isn't really a 'review', but more of a commentary of the most salie
 ---
 
 # Rating Scheme
-I typically don't invest significant amounts of time into something unless I enjoy it; similarly all of the items on this list that are rated, I have read/watched in their entirety, so I implicitely enjoyed them.
+I typically don't invest significant amounts of time into something unless I enjoy it; similarly all of the items on this list that are rated, I have read/watched in their entirety, so I implicitly enjoyed them.
 Under a typical rating scheme (say the Netflix 5-Star scheme) I would rate everything as at least 3/5 ("I liked it"), as this doesn't fully explore the rating space, my system uses the full 5-star range given that I had already enjoyed it.
 Overall (although my ratings are as yet still fairly sparse) I would expect the average to hover around 2/5, especially for longer works.
 
@@ -31,11 +31,11 @@ Overall (although my ratings are as yet still fairly sparse) I would expect the 
 
 **2-Stars**: Better than 1-Star, not deserving of 3, typically characterized by moments of noticeable tedium, but altogether enjoyable.
 
-**3-Stars**: An immersive story that begets genuine attachment to the characters, the construction of a genuinely interesting universe, would conceivably read/watch again, but only if suitably novel 'new' material is unavailable.
+**3-Stars**: An immersing story that begets genuine attachment to the characters, the construction of a genuinely interesting universe, would conceivably read/watch again, but only if suitably novel 'new' material is unavailable.
 
 **4-Stars**:
 At the end of such stories I am left with a profound melancholy that lingers for hours if not days.
-The sense of personal fulfillment at having taken part in such an experience is somewhat tinged with the regret that the story is over and I must carry on, alone. I'd wholeheartedly recommend anything at this rating to anyone who even vaguelly expresses interest.
+The sense of personal fulfillment at having taken part in such an experience is somewhat tinged with the regret that the story is over and I must carry on, alone. I'd wholeheartedly recommend anything at this rating to anyone who even vaguely expresses interest.
 
 **5-Stars**:
 Reserved only for paradigm-shifting works that have significantly altered the way I perceive the world, memories of which are as strong as natural ones.
@@ -47,6 +47,26 @@ A work of art, and I'll loudly and repeatedly recommend these to anyone nearby; 
 
 # Literature
 Mostly (Science-)Fiction.
+
+## Malazan Book of the Fallen - Steven Erikson
+This is an epic high-fantasy series with incredible scope, phenomenal world-building, and a huge cast of memorable characters.
+It is also quite _meaty_, with each novel coming in around 1.2k pages a piece, with the (now completed series) ending up around 12k pages.
+I highly recommend **Gardens of the Moon** as a way to test the waters, but all the others in the series that I've read (so far) have been more-or-less excellent.
+
+My greatest criticism is that there are moments of noticeable tedium throughout each of the stories that do nothing other than serve as soap-boxes for intricate descriptions of the immediate environment.
+This is definitely a style preference, I would typically prefer that depth to go towards character development.
+Ultimately, I like the series so far, and will fill out the ratings if/when I complete them.
+
+1. **Gardens of the Moon**: 4-Stars
+2. **Deadhouse Gates**: 3-Stars
+3. **Memories of Ice**: 3-Stars
+4. **House of Chains**: 2-Stars
+5. **Midnight Tides**: TODO
+6. **The Bonehunters**: TODO
+7. **Reaper's Gale**: TODO
+8. **Toll of the Hounds**: TODO
+9. **Dust of Dreams**: TODO
+10. **The Crippled God**: TODO
 
 ## Old Man's War - John Scalzi
 Canonical Military sci-fi with a few gimmicks thrown in for interest.
@@ -64,27 +84,27 @@ With that in mind, I found it enjoyable (and there *are* some powerful emotional
 A great noir-sci-fi that follows a small cast of characters caught up in events mostly out of their control.
 Packed with a hefty dose of post-Earth colonialism, and a great combination of character development, and world building; *The Expanse* offers just about everything anyone could want from a Space Opera.
 In general, I found *Leviathan Wakes* to be excellent, but the proceeding two novels lacking suitable plot depth.
-*Cibola Burn* was again excellent, but achieved that by allowing each of the protagonists to independingly drive their own story arcs.
+*Cibola Burn* was again excellent, but achieved that by allowing each of the protagonists to independently drive their own story arcs.
 I can see why a [TV adaptation](https://en.wikipedia.org/wiki/The_Expanse_(TV_series)) is planned; and I assume I'll enjoy it.
 
-**Leviathan Wakes**: 3-Stars.
+1. **Leviathan Wakes**: 3-Stars.
 
-**Caliban's War**: 2-Stars.
+2. **Caliban's War**: 2-Stars.
 
-**Abaddon's Gate**: 2-Stars.
+3. **Abaddon's Gate**: 2-Stars.
 
-**Cibola Burn**: 3 Stars.
+4. **Cibola Burn**: 3 Stars.
 
 ## The Black Cloud - Fred Hoyle
 Exemplary (perhaps genre-defining) hard-science-fiction.
-Equal parts astronomy, ecology, and making fun of the british; this novel is a great introduction to the genre and a quick easy read.
+Equal parts astronomy, ecology, and making fun of the British; this novel is a great introduction to the genre and a quick easy read.
 
 3-Stars.
 
 ## Words of Radiance - Brian Sanderson
 The second book in the *Stormlight Archive* and more-or-less the same quality as the first; which is to say "good".
 
-At times it seemed the pacing was a little off, but the worldbuilding is great (as one would expect from the creator of *Mistborn*).
+At times it seemed the pacing was a little off, but the world building is great (as one would expect from the creator of *Mistborn*).
 
 2-Stars.
 
@@ -92,7 +112,7 @@ At times it seemed the pacing was a little off, but the worldbuilding is great (
 The first of presumably many upcoming books in the *Stormlight Archive* saga.
 Generically good fantasy in the school of *Wheel of Time* (which makes sense, since Sanderson has contributed several novels to that series).
 
-Some absolutely phenominal fight scenes (more gripping than cinema).
+Some absolutely phenomenal fight scenes (more gripping than cinema).
 
 3-Stars.
 
@@ -111,21 +131,21 @@ Pulp Fiction.
 ## Ancillary Mercy - Ann Leckie
 If you're as enamoured with the previous books in the trilogy as I am, you had no choice but to read this the moment it was released (as I did).
 Ancillary Mercy is a great novel, but (similar to its prequel) isn't quite the mind-expanding spectacle that *Ancillary Justice* was.
-I enjoyed it, due to a familiar cast of characters, and a great appeciation for the literary style.
+I enjoyed it, due to a familiar cast of characters, and a great appreciation for the literary style.
 
 2-Stars.
 
 ## Green Mars - Kim Stanley Robinson
-*Green Mars* continues where Red Mars left off, but focuses on a slightly smaller cast of characters. Ultimately, there isn't much to say ahere that wasn't already communicated in my review for its prequel.
+*Green Mars* continues where Red Mars left off, but focuses on a slightly smaller cast of characters. Ultimately, there isn't much to say here that wasn't already communicated in my review for its prequel.
 This time around, less of the focus is on the science and engineering aspects of colonization, than the political and socio-economic factors.
 We see the breakdown of colonialism, rebellion, and the formation of a 'new society'.
-Some of the story arcs were well thought out and great additions, however even moreso than he prequel; *Green Mars* has multi-hour segments of pure tedium, to the extent that I'm not really looking forward to reading its sequel until absolutely necessary.
+Some of the story arcs were well thought out and great additions, however even more so than he prequel; *Green Mars* has multi-hour segments of pure tedium, to the extent that I'm not really looking forward to reading its sequel until absolutely necessary.
 
 2-Stars.
 
 ## Red Mars - Kim Stanley Robinson
 Continuing down my (unordered) list of *Hugo* winners, we've got 1994's winner: a true epic.
-A rediculously detailed (and presumably well-researched) depiction of the human colonization, *Red Mars* is told through multiple first-person narratives of the early colonists (a.k.a. members of *The First Hundred*).
+A ridiculously detailed (and presumably well-researched) depiction of the human colonization, *Red Mars* is told through multiple first-person narratives of the early colonists (a.k.a. members of *The First Hundred*).
 What I liked the most, was the honest depiction of how cultural/societal problems develop and coalesce into a swirling maelstrom of mayhem.
 This (the first in KSR's *Mars* trilogy) outlines the early colonization and subsequent exploitation of Mars, along with the political and ecological turmoil that involves.
 The tremendous detail allows for some pretty *hard* sci-fi&mdash;which may not appeal to everyone; but to those who commit to it, *Red Mars* tells some hauntingly beautiful stories, and a strong cast of characters.
@@ -167,23 +187,23 @@ The second part of Simmons' Illium/Olympos Cycle, it sets off where Illium ended
 2-Stars.
 
 ## Illium - Dan Simmons
-Illium is an imaginative sci-fi blend of Homer's illiad, various Shakespearian works (in particular: *The Tempest*), and Virgil's *Aeneid*, as well as (naturally) original material.
-Not quite of the same calibre as *Hyperion* (which originally lead me to this novel and its sequel), it is still nonetheless an entertaining story that brings together a refreshingly novel cast of characters and timelines.
+Illium is an imaginative sci-fi blend of Homer's Illiad, various Shakespearian works (in particular: *The Tempest*), and Virgil's *Aeneid*, as well as (naturally) original material.
+Not quite of the same calibre as *Hyperion* (which originally lead me to this novel and its sequel), it is still nonetheless an entertaining story that brings together a refreshingly novel cast of characters and time lines.
 My minor gripe with this work is that most of the characters are relatively flat, and (to some extent) boring. After reading more than 5,000 pages of Simmons' work by this point, I'm beginning to sense that this is a stylistic shortcoming.
 
 2-Stars.
 
 ## Ready Player One - Ernest Cline
 Page-turner dystopic sci-fi taking inspiration from the likes of Stephenson's Snow Crash, Reamde, but with a style somehow reminiscent of Philip K. Dick.
-Honest, heartwarming, and with massive waves of nostalgia (who doesn't love Zork?), RPO is an easy read that begets geniune attachment to the protagonists, and critical evaluation of the social environment surrounding video games, and new-age 'digital society' in general.
-There is a thoroughly rediculous amount of video game lore embedded in this novel. Ernest Cline is either a genious, or a madman; or both.
+Honest, heartwarming, and with massive waves of nostalgia (who doesn't love Zork?), RPO is an easy read that begets genuine attachment to the protagonists, and critical evaluation of the social environment surrounding video games, and new-age 'digital society' in general.
+There is a thoroughly ridiculous amount of video game lore embedded in this novel. Ernest Cline is either a genius, or a madman; or both.
 
 3-Stars.
 
 
 ## The Rise of Endymion - Dan Simmons
-The conclusion to the story set forth in **Endymion**, **The Rise of Endymion** continutes along the trajectory set forth in the former story.
-Another beautiful work by what is now one of my favorite authors, it is astounding how natural so many of these worlds and curltures feel after a few short pages; owing to the talent of Simmons.
+The conclusion to the story set forth in **Endymion**, **The Rise of Endymion** continues along the trajectory set forth in the former story.
+Another beautiful work by what is now one of my favorite authors, it is astounding how natural so many of these worlds and cultures feel after a few short pages; owing to the talent of Simmons.
 
 I'm sure there is some word in dead languages that expresses the simultaneous emotions of joy and loss; happiness and sadness. If there is, that is how I'd describe the ending to this tale.
 
@@ -205,8 +225,8 @@ Still a great story in its own right, but it ultimately became a little (dare I 
 3-Stars.
 
 ## Hyperion - Dan Simmons
-At its heart, a character drama, Hyperion demonstrates that it is possible to have an interesting cast of characters; each with their own idiosynchrasies, all the while delivering wold-building that is in step with Herbert or Tolkein.
-What I loved most about the first book in what is widely acclaimed to be a fantastic series (Hyperion won the Hugo in 1989), was that the novel is built from composing the backstories of each of the main characters.
+At its heart, a character drama, Hyperion demonstrates that it is possible to have an interesting cast of characters; each with their own idiosyncrasies, all the while delivering wold-building that is in step with Herbert or Tolkein.
+What I loved most about the first book in what is widely acclaimed to be a fantastic series (Hyperion won the Hugo in 1989), was that the novel is built from composing the back stories of each of the main characters.
 Each has its own style, and serves to draw out what life is like in the very distant future.
 
 Stunning Sci-Fi, amazing universe, and I'm already reading the second in the series.
@@ -239,7 +259,7 @@ Great read, but not nearly as engaging relative to other works.
 
 ## A Slow Regard of Silent Things - Patrick Rothfuss
 This short-and-sweet novella follows Auri (from "The Name of the Wind") around in her day-to-day life.
-For readers of "The Name of the Wind", that should be enough of a selling point. for others, I would definitely recommend reading the earlier works first as they set up the necessary context.
+For readers of "The Name of the Wind", that should be enough of a selling point. For others, I would definitely recommend reading the earlier works first as they set up the necessary context.
 
 A truly beautiful story.
 
@@ -273,7 +293,7 @@ This would be a great stage for a MMORPG.
 
 
 ## The Wise Man's Fear - Patrick Rothfuss
-The second in "The Kingkiller Chronicle", I enjoyed this exaclty as much as The Name of The Wind.
+The second in "The Kingkiller Chronicle", I enjoyed this exactly as much as The Name of The Wind.
 Very much the same style, the frame story progresses very slowly, and it again is a very easy, enjoyable read.
 While many criticise the 'coming of age' aspects of this particular installment in the series, I'm always open to a well told coming-of-age story.
 I'm sincerely looking forward to the final installment of the trilogy, but unfortunately it appears like it will be some time indeed before Rothfuss is finished.
@@ -310,15 +330,15 @@ However linear (with several notable exceptions), the novel does employ a fair a
 
 ## Home Fires - Gene Wolfe
 One of (I believe) Wolfe's more recent works, Home Fires is first and foremost a love story.
-With that in mind, this is the first Wolfe novel that I've read that can be construed as a detective novel, except with lawyers, carribean tourism, and human reanimation.
+With that in mind, this is the first Wolfe novel that I've read that can be construed as a detective novel, except with lawyers, Caribbean tourism, and human reanimation.
 Ultimately, through the violence, and betrayal; the reflection and longing; this is an incredibly fast-paced novel, which I believe to be simultaneously its greatest strength and weakness.
-Few authors could so carefully and beautifully construct such flawed characters amid the whorling chaos that is the storyline, and indeed it is to Wolfe's credit that everything makes sense&mdash;albeit always just a minute too late.
+Few authors could so carefully and beautifully construct such flawed characters amid the whirling chaos that is the storyline, and indeed it is to Wolfe's credit that everything makes sense&mdash;albeit always just a minute too late.
 I believe this was intended, and the effect is by no means lost on me: I read through Home Fires in a day&mdash;it's an addicting experience.
 
-While I thoroughly enjoyed it, I can't quite bring myself to give it 4-stars&mdash;even though the story was solid, the characters deep and flawed, and the execution; supurb.
+While I thoroughly enjoyed it, I can't quite bring myself to give it 4-stars&mdash;even though the story was solid, the characters deep and flawed, and the execution; superb.
 It just didn't hold the same *magic* for me, in retrospect I think it's a better read than (but in the same category as) Stephenson's "Reamde", but not as good as "The Book of the New Sun" (TBotNS).
 
-And yet, I'm still conflicted. After recently re-reading some of TBotNS, I sincerely believe Home Fires was better written (albeit in a different, arguabely more developed/mature style).
+And yet, I'm still conflicted. After recently re-reading some of TBotNS, I sincerely believe Home Fires was better written (albeit in a different, arguably more developed/mature style).
 It's a fantastic read (highly recommended), relatively short, but (perhaps due to its lack of scope) I can't in good conscience give it a higher rating.
 
 3-Stars
@@ -369,7 +389,7 @@ The Cryptonomicon is probably the most appealing method of simultaneously teachi
 3-Stars
 
 ## Reamde - Neil Stephenson
-A sort of spin-off of "The Cryptonomicon", Reamde is an technophile's action-adventure novel a-la Robert Ludlum.
+A sort of spin-off of "The Cryptonomicon", Reamde is an action-adventure novel for technophiles a-la Robert Ludlum.
 A great combination of crypto, economics, virtual reality, and mafioso hit squads.
 
 3-Stars.
@@ -385,29 +405,31 @@ Of particular interest—especially of The Odyssey, is the abstract realization 
 # Video
 Mostly Anime
 
-## Carnival Phantasm (2013)
+## Shingetsutan Tsukihime (2013)
+A dark supernatural/mystery with enough intrigue to keep things interesting.
+Great sound-track, and a well-constructed story; but the characters aren't that interesting.
 
-Carnival Phantasm is a zaney mashup/parody of Takenashi Eri's Take Moon manga.
+2-Stars.
+
+## Carnival Phantasm (2013)
+Carnival Phantasm is a zany mash-up/parody of Takenashi Eri's Take Moon manga.
 Featuring maniacally paced short episodes jam-packed with inside jokes, and satirical homages; it is well worth watching.
 
 2-Stars.
 
 ## Black Bullet (2014)
-
 Tedious, but sprinkled with some great banter; and quality artwork.
 
 1-Star.
 
 ## Shigatsu wa Kimi no Uso (Your Lie in April, 2015)
-
 If you like classical music, paired with a touching, poignant, and profoundly emotional story; you're in for a treat.
 A beautiful work of art.
 
 4-Stars.
 
 ## Darker than Black (2007)
-
-D-Black, is a gritty supernatural/sci-fi evokative of a Noir Cowboy Bebop (Yoko Kanno is amazing as always).
+D-Black, is a gritty supernatural/sci-fi evocative of a Noir Cowboy Bebop (Yoko Kanno is amazing as always).
 What I liked (aside from the style) is that the plot isn't spoon fed to you.
 For the first few episodes we don't even know whats going on, or who the protagonist is, but everything fits into place.
 
@@ -416,19 +438,18 @@ Thoroughly enjoyable.
 3-Stars.
 
 ## Gakusen Toshi Asterisk (Asterisk War, 2015)
-
 Pretty much summed up by the genres: "Action, Comedy, Ecchi, Fantasy, Harem, Romance, School, Sci-Fi".
 Generically pretty mediocre, but the [final credit song is really nice](https://vimeo.com/143548789).
 
 2-Stars.
 
 ## Grisaia No Kajitsu (2014)
-Once you get past the gratuitist fan service, you get to experience some mature psychological drama tackeling themes of identity, mental illness, and general emotional turmoil.
+Once you get past the gratuitist fan service, you get to experience some mature psychological drama tackling themes of identity, mental illness, and general emotional turmoil.
 
 2-Stars.
 
 ## Heavy Object (2015)
-Nothing to see here. To quote a random comment from the shady site where I watched this "I pitty the fool who's looking for a second season".
+Nothing to see here. To quote a random comment from the shady site where I watched this "I pity the fool who's looking for a second season".
 
 1-Star.
 
@@ -459,20 +480,20 @@ In general, I highly recommend just kicking back, zoning out; and watching the f
 
 ## GATE (2015)
 This is a great example of a more-or-less empty story held together by really great characters.
-It has its fair share of light fanservice with comic flair.
+It has its fair share of light fan service with comic flair.
 Strangely similar to *Outbreak Company* in theme, but taken from a more mature standpoint.
 The *niftiest* part, is art that juxtaposes classic fantasy landscapes with modern technology.
 
 2-Stars.
 
 ## Noragami: Aragoto (2015)
-The second season. Great art, phenominal intro music, and some cool plot twists.
+The second season. Great art, phenomenal intro music, and some cool plot twists.
 
 2-Stars.
 
 ## Noragami (2014)
 Slightly more mature shonen anime with some good moments.
-As an added bonus this was available on Netflix (english subs), so I didn't have to feel like an otaku.
+As an added bonus this was available on Netflix (English subs), so I didn't have to feel like an otaku.
 
 2-Stars.
 
@@ -495,13 +516,13 @@ This is a fairly *weird* anime; set in Shibuya Tokyo, *Chaos Head* follows an ot
 There are some great plot twists, and as a series it does a great job playing with perception&mdash;we aren't entirely sure what is going on until the very end.
 Throughout the mind-games are some loveable supporting characters that form a relatively non-standard take on the typical *harem* anime.
 
-Noticeable shortcomings include a lack of interesting dialogue; weird animation glitches (particularly character speach) and a fairly shallow plot.
+Noticeable shortcomings include a lack of interesting dialogue; weird animation glitches (particularly character speech) and a fairly shallow plot.
 
 2-Stars.
 
 ## Steins;Gate: Fuka Ryouiki No Deja Vu (2013)
 Set one year after the events in the series, this movie follows Kurisu as she is wracked by guilt, and deja vu.
-Like the series, it is full of heartwarming/wrenching drama and loveable characters, however it soewhat lacks for depth (but then again in the movie format it does an admirable job).
+Like the series, it is full of heartwarming/wrenching drama and loveable characters, however it somewhat lacks for depth (but then again in the movie format it does an admirable job).
 
 Loved it.
 
@@ -514,10 +535,10 @@ Occasionally monotonous at times, but leads up to some powerfully dramatic momen
 1-Star.
 
 ## Arslan Senki (2015)
-The recent anime adaptation of a long history of novels and a 1991 movie (The Heroic Tale of Arslan), *Arslan Senki* is a mideival drama that more-or-less plays out like a good strategic board game.
+The recent anime adaptation of a long history of novels and a 1991 movie (The Heroic Tale of Arslan), *Arslan Senki* is a medieval drama that more-or-less plays out like a good strategic board game.
 A reasonably large cast of monochromatic characters keeps it somewhat interesting, as well as some interesting plot developments and back-stories.
 
-Tremendously impactful sword fights.
+Tremendously intense sword fights.
 
 2-Stars.
 
@@ -526,10 +547,10 @@ Giant Robot Anime, with a great cast, great art, and a real plot.
 The first season was sublime, and the second rounded out the series nicely.
 
 My only complaints involve the general lack of supporting character development; and the fact that the protagonist isn't really fleshed out (but really should have been).
-We like him because the story is told (mostly) from his perspective, not out of any sense of comraderie or sympathy.
+We like him because the story is told (mostly) from his perspective, not out of any sense of camaraderie or sympathy.
 
 Not to put too fine a point on it; but why is Spike from *Cowboy Bebop* an awesome character?
-Is it because he knows kung-fu? Because he is a phenominal pilot? No.
+Is it because he knows kung-fu? Because he is a phenomenal pilot? No.
 Spike's story is told in fragments, each of which is exquisitely painful and poignant.
 We relate to Spike because we can (at the very least) understand where he is coming from, and the struggles that he has endured.
 We get exactly zero of that with Inaho (one of the protagonists); and **spolier**; when he is half robot, his personality doesn't change in the slightest.
@@ -582,7 +603,7 @@ For what it's worth, I did finish the series; and I'm worried about what that sa
 ## K (2012)
 Some great style, with a well constructed plot.
 This one gets a bonus point for catering to my love of perceptual quirks (i.e. memory loss, hallucination etc.).
-Apprently there is a film sequel, which I'll get my hands on at some point.
+Apparently there is a film sequel, which I'll get my hands on at some point.
 Short, and relatively sweet.
 
 2-Stars.
@@ -594,8 +615,8 @@ Nothing to see here.
 
 ## Mobile Suit Gundam 00 Season 1 (2007)
 My first official foray into the Giant Robot genre (well, I guess Knights of Sidonia counts), MSG 00 delivers as advertised.
-While I aknowledge that half the point of Giant Robot Anime is showing giant robots doing giant robot things, it does get a little tedious.
-If this season were condensed into say 12 episodes, with all the character development and backstory taking center stage instead of repetitive Giant Robot Battles, this would be a truly genre-defining series.
+While I acknowledge that half the point of Giant Robot Anime is showing giant robots doing giant robot things, it does get a little tedious.
+If this season were condensed into say 12 episodes, with all the character development and back story taking center stage instead of repetitive Giant Robot Battles, this would be a truly genre-defining series.
 
 Don't get me wrong: the Giant Robot Battles are pretty cool, and feature some cool artwork, but I think there can be more to it than that.
 Maybe I'm missing the point.
@@ -603,15 +624,15 @@ Maybe I'm missing the point.
 2-Stars.
 
 ## No Game No Life (2014)
-Clever, quirky, and featureing fantastically surreal art, No Game No Life delivers entertainment, and some times, all you want is a little entertainment.
-The characters are a little flat, and some memes are overplayed (fanservice gets obnoxious at times), but otherwise fun.
+Clever, quirky, and featuring fantastically surreal art, No Game No Life delivers entertainment, and some times, all you want is a little entertainment.
+The characters are a little flat, and some memes are overplayed (fan service gets obnoxious at times), but otherwise fun.
 
 2-Stars.
 
 ## Code Geass (2006-2008)
 All around enjoyable. Some great plot twists, marked by moments of noticeable tedium.
 Above all, a character drama with elements (successfully) taken from Death Note.
-Of course, R1 was the better of the two series, but I found R2 (which got a little rediculous at time) moderately enjoyable.
+Of course, R1 was the better of the two series, but I found R2 (which got a little ridiculous at time) moderately enjoyable.
 
 Coming-of-age + giant robots + emotional turmoil. Worth watching, once only.
 
@@ -631,7 +652,7 @@ The show had a few great episodes, and many great moments, but really lost steam
 A good ol'e fashioned sci-fi spaceship battle movie that portrays the remnants of the post-expansionist human race.
 To say that there wasn't a plot would be a tad harsh, but its surprising how little happened in this close-to-two-hour long movie.
 The one thing it has going for it is absolutely stunning animation (complete with billowing smoke and hair worthy of a Blizzard cinematic).
-In fact, this animation is so beautiful, the movie is worth rewatching just for the visual effects, but I have to imagine that if more time was allocated towards dialogue or character development (all the characters are completly flat/prototypical) the film would have been received better.
+In fact, this animation is so beautiful, the movie possibly worth watching again just for the visual effects, but the rest of it is pretty weak.
 
 Gorgeous animation, but severely lacking in its story. Normally I'd give this kind of thing 1-star, but the animation is just too good.
 
@@ -641,7 +662,7 @@ Gorgeous animation, but severely lacking in its story. Normally I'd give this ki
 I do love a good o'le fashioned giant-robot-sci-fi anime, and this one doesn't disappoint on that front.
 The animation is brilliant (highly stylized, with a myriad of epic vistas), and the sound is done really well, however a good story needs well&mdash;a story.
 Definitely slated for additional seasons (which I believe are warranted), the character development is virtually nonexistent, and the dialogue is weak.
-The voice acting (english version) isn't bad, but that said there aren't that many spoken lines of merit.
+The voice acting (English version) isn't bad, but that said there aren't that many spoken lines of merit.
 I will watch the second season if/when it comes out, just because I feel like this show has great potential and I have a terrible weakness for glorious space-bound stories, but I can't help but feel disappointed, especially coming off of my Steins;Gate high.
 
 Great sound, animation, and fight scenes; the second season is equally good.
@@ -659,7 +680,7 @@ The best TV I've seen in years.
 
 ## Spice and Wolf (2008)
 Beautiful art, witty banter, and plot mechanics based on economics, what's not to love?
-One of the greatests aspects of this story is that the cast of characters is so small, and so the series focuses on the relationship of the two protagonists.
+One of the greatest aspects of this story is that the cast of characters is so small, and so the series focuses on the relationship of the two protagonists.
 This allows for some fantastically deep character development, which pays off in spades.
 
 4-Stars.
@@ -667,16 +688,16 @@ This allows for some fantastically deep character development, which pays off in
 
 ## Death Note (2006)
 Probably the most suspenseful series I've seen.
-Whereas most anime (or TV in general) tends to overzealusly blast action and violence, as well as cheap fanservice and classic romance, Death Note takes a different route.
-The series is an artfully crafted game of cat and mouse; moves and countermoves, resolving into one of the best 'detective'-style shows I've ever seen.
+Whereas most anime (or TV in general) tends to over-zealously blast action and violence, as well as cheap fan service and classic romance, Death Note takes a different route.
+The series is an artfully crafted game of cat and mouse; moves and counter moves, resolving into one of the best 'detective'-style shows I've ever seen.
 As intellectually stimulating as they come, and all in all, an imaginative, well thought-out, and artfully crafted story.
 
 4-Stars.
 
 ## Kill la Kill (2013)
-A thoroughly rediculous, but not altogether unenjoyable series.
+A thoroughly ridiculous, but altogether entertaining series.
 The first couple of episodes are simply outstanding: featuring a hilariously fast-paced, in-your-face style, with outrageous art.
-That said, the series slows down, and gets a little tedious about half-way through, and the gratuitist fanservice took away from what could have been a cult-classic anime (on the style/pace alone).
+That said, the series slows down, and gets a little tedious about half-way through, and the gratuitist fan service took away from what could have been a cult-classic anime (on the style/pace alone).
 
 The first episode is 4-stars, but the series as a whole gets 1.
 
@@ -691,7 +712,7 @@ Nothing to see here.
 I really like dark anime, and this is no exception.
 Fate/Zero has moderately complex characters, and great visual style; however the aspect that separates it from other anime with similar qualities (SAO, Cowboy Bebop, etc.) is the depiction of really gritty violence and suffering.
 There are no prototypical heroes and villains (although I imagine the development of the principal antagonist is somewhat straightforward), and almost every character is severely flawed.
-The backstories of the various characters are revealed sparingly, with enough left out to allow for the tactful use of ambiguity.
+The back stories of the various characters are revealed sparingly, with enough left out to allow for the tactful use of ambiguity.
 All in all, a deep and interesting story, with near superb execution.
 
 What separates it (in terms of the level of enjoyment) for me from something like SAO, is that nothing is held back in the depictions of atrocity&mdash;some of the characters in Fate/Zero are truly evil: and there is no filter.
